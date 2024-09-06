@@ -10,7 +10,7 @@
     "check": "node src/index.js"
   },
   "dependencies": {
-    "@actions/github": "4.0.0",
-    "boxen": "5.0.0"
+    "@actions/github": "6.0.0",
+    "boxen": "6.0.0"
   }
 }
